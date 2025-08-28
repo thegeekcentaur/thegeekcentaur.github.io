@@ -1,6 +1,3 @@
-**Architect**
-GitHub: https://github.com/thegeekcentaur
-
 ## PROFESSIONAL SUMMARY
 Cloud applications architect with 20+ years expertise in product design, secure development, lean practices and AI-DLC. 
 Hands-on technologist passionate about mission-critical cloud products, distributed systems and engineering solutions. 
