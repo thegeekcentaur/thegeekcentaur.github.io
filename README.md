@@ -1,12 +1,14 @@
 ## PROFESSIONAL SUMMARY
-Cloud applications architect with 20+ years expertise in product design, secure development, lean practices and AI-DLC. 
-Hands-on technologist passionate about mission-critical cloud products, distributed systems and engineering solutions. 
-Open-source contributor, team builder with strong technical skills and collaborative spirit. 
-Product security practitioner, Oracle Emerge Global alumni, Six Sigma Green Belt. 
-Notable works: [Dorothy on Drones](https://github.com/thegeekcentaur/dorothy-on-drones), [MAGPIE](https://github.com/thegeekcentaur/magpie)
+- Cloud applications architect with 20+ years expertise in product design, secure development, lean practices and AI-DLC. 
+- Hands-on technologist passionate about mission-critical cloud products, distributed systems and engineering solutions. 
+- Open-source contributor, team builder with strong technical skills and collaborative spirit. 
+- Product security practitioner, Oracle Emerge Global alumni, Six Sigma Green Belt. 
+- Notable works:
+    [Dorothy on Drones](https://github.com/thegeekcentaur/dorothy-on-drones),
+    [MAGPIE](https://github.com/thegeekcentaur/magpie)
 
 ## EDUCATION
-**M.S., Software Engineering** (CGPA: 8.55)
+**M.S., Software Engineering**
 
 ## TECHNICAL SKILLS
 **Programming:** Golang, Python, Java, C++, Rust, JavaScript, TypeScript, PL/SQL  
